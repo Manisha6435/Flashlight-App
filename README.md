@@ -8,7 +8,7 @@ A simple and lightweight **Flashlight App** built using **MIT App Inventor**.
 ✅ Lightweight and fast  
 
 ## 📸 Screenshots
-<img src="images/screenshot1.png" width="250"> <img src="images/screenshot2.png" width="250">
+<img src="C:\Users\manis\Downloads\Screenshot 2024-07-09 202758.png" width="250"> <img src="images/screenshot2.png" width="250">
 
 ## 🚀 Installation
 1. Download the latest `.apk` file from the [Releases](https://github.com/yourusername/Flashlight-App/releases).
